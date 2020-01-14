@@ -1,28 +1,38 @@
-# Unity2019114f1-2D-Template
+# README.md
+# home-WebGL-movingBall-cs-ndistler
 
 ### Project description: 
-Introduction/Project summary 
+This project contains a screen (960x600), a button (UI, button) and a ball (UI, Sprite).
+If you press the button the ball will randomly move to 4 pre selected positions.
+This is achieved by a C#-Script.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+- Mac OS Mojave 
+- Unity 2019.1.14f1 
+- Visual Studio Code 1.40.2
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+    <img src="Screenshots/StartScreen.png">
+    <img src="Screenshots/Pressed_button.png">
+</div>
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+WebGL needs to be installed.
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template: Unity2019114f1-2D-Template (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
-incl. progress in percent
+100% Finished
 
 ### Limitations: 
+None
 
 ### Lessons Learned: 
+improved my coding, learned the setposition function
 
-Copyright by you :)
+Copyright by ndistler
