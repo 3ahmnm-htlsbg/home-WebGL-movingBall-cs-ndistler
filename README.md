@@ -6,6 +6,8 @@ This project contains a screen (960x600), a button (UI, button) and a ball (UI, 
 If you press the button the ball will randomly move to 4 pre selected positions.
 This is achieved by a C#-Script.
 
+The game is available under: https://3ahmnm-htlsbg.github.io/home-WebGL-movingBall-cs-ndistler/
+
 ### Development platform: 
 - Mac OS Mojave 
 - Unity 2019.1.14f1 
