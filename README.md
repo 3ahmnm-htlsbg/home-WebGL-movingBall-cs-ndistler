@@ -27,6 +27,7 @@ WebGL needs to be installed.
 
 ### Third party material: 
 Template: Unity2019114f1-2D-Template (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
+Image of a basketball (Link: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiowdG6koPnAhXxyYsBHeNGB-YQjRx6BAgBEAQ&url=http%3A%2F%2Fwebcomicms.net%2Fclipart-9230357-basket-ball-picture&psig=AOvVaw2sU4JG_c8GMevosTjEXdu7&ust=1579093122275619)
 
 ### Project state: 
 100% Finished
